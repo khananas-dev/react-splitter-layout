@@ -1,0 +1,1 @@
+export { default as SplitterLayout } from '../src/components/SplitterLayout';
